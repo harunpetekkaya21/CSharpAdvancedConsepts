@@ -4,7 +4,7 @@ namespace Interfaces
 {
     class Program
     {
-
+        
         //interface new lenemez
         static void Main(string[] args)
         {
