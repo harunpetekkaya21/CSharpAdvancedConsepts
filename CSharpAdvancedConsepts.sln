@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{29B38A16-5644-47D1-8FC4-431711B20633}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionaryClass", "MyDictionary\MyDictionaryClass.csproj", "{4187860D-248B-46A0-914C-D054BB41B2BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionaryClass", "MyDictionary\MyDictionaryClass.csproj", "{4187860D-248B-46A0-914C-D054BB41B2BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{7918DEC0-3329-4DC8-9731-0AF38D9B393D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces_v2", "Interfaces_v2\Interfaces_v2.csproj", "{8E4B833E-BC08-4298-AFA3-7B173351ED85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{4187860D-248B-46A0-914C-D054BB41B2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4187860D-248B-46A0-914C-D054BB41B2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4187860D-248B-46A0-914C-D054BB41B2BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7918DEC0-3329-4DC8-9731-0AF38D9B393D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7918DEC0-3329-4DC8-9731-0AF38D9B393D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7918DEC0-3329-4DC8-9731-0AF38D9B393D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7918DEC0-3329-4DC8-9731-0AF38D9B393D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E4B833E-BC08-4298-AFA3-7B173351ED85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4B833E-BC08-4298-AFA3-7B173351ED85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4B833E-BC08-4298-AFA3-7B173351ED85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4B833E-BC08-4298-AFA3-7B173351ED85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
